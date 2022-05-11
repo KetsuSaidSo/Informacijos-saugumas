@@ -1,0 +1,4 @@
+﻿  ConsoleApplication62.cpp
+C:\Users\arnas\Desktop\3 praktinė užduotis\Antro tipo aplikacija\ConsoleApplication62\ConsoleApplication62.cpp(35,13): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\arnas\Desktop\3 praktinė užduotis\Antro tipo aplikacija\ConsoleApplication62\ConsoleApplication62.cpp(119,22): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  ConsoleApplication62.vcxproj -> C:\Users\arnas\Desktop\3 praktinė užduotis\Antro tipo aplikacija\x64\Debug\ConsoleApplication62.exe
