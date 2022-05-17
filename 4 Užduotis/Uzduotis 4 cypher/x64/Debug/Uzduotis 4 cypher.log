@@ -1,6 +1,0 @@
-﻿  Uzduotis 4 cypher.cpp
-C:\Users\arnas\Desktop\4 Užduotis\Uzduotis 4 cypher\Uzduotis 4 cypher.cpp(93,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\arnas\Desktop\4 Užduotis\Uzduotis 4 cypher\Uzduotis 4 cypher.cpp(194,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\arnas\Desktop\4 Užduotis\Uzduotis 4 cypher\Uzduotis 4 cypher.cpp(199,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\arnas\Desktop\4 Užduotis\Uzduotis 4 cypher\Uzduotis 4 cypher.cpp(62,6): warning C4101: 'choice': unreferenced local variable
-  Uzduotis 4 cypher.vcxproj -> C:\Users\arnas\Desktop\4 Užduotis\x64\Debug\Uzduotis 4 cypher.exe
